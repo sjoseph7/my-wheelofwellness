@@ -1,10 +1,9 @@
-# README
+# my-wheelofwellness.com
 
 ### A website that provides information to parents and adolescents concerned about the HPV vaccine.
 
 @author: sjoseph7  
-@code-last-updated: 29 July 2018  
-@site: [https://www.my-wheelofwellness.com/](https://www.my-wheelofwellness.com/)
+@code-last-updated: 29 July 2018
 
 Includes:
 

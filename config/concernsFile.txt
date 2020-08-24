@@ -1,0 +1,121 @@
+{
+    "patientConcerns": [
+        {
+            "concern": "Is the vaccine safe?",
+            "info": "The HPV vaccine has been studied for many years by medical experts. It’s very safe & may cause mild side effects such as a sore arm.",
+			"link": "https://www.cdc.gov/vaccinesafety/vaccines/hpv-vaccine.html"
+        },
+        {
+            "concern": "Will it hurt to get HPV shot and are there side effects?",
+            "info": "The HPV vaccine is like any other vaccine and incudes common side effects such as soreness in the arm where the shot was given, fever, headache or feeling tired, nausea, and muscle or joint pain.",
+			"link": "https://www.cdc.gov/vaccinesafety/vaccines/hpv-vaccine.html"
+        },
+		{
+            "concern": "What does the HPV vaccine protect against?",
+            "info": "HPV vaccines are highly effective in preventing infection & provides protection for genital warts and for several types of cancer including cervical cancer, oral cancer, and more.",
+			"link": "https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-vaccine-fact-sheet"
+        },
+		{
+            "concern": "How many shots will I need?",
+            "info": "Boys and girls ages 9-14 should receive only 2 shots, the 2nd shot is given at least five-twelve months apart from the 1st shot and females 15-26 years of age should receive 3 shots, the 2nd shot is given 1-2 months after the 1st shot and the 3rd dose given 6 months after the 1st dose.",
+			"link": "https://www.cdc.gov/vaccines/hcp/vis/vis-statements/hpv.html"
+        },
+		{
+            "concern": "Is HPV the same as HIV and HSV?",
+            "info": "HPV is a different virus than HIV and HSV. HPV is the most common sexually transmitted infection. There are many different types of HPV, some types can cause health problems including genital warts and cancers.",
+			"link": "https://www.cdc.gov/std/hpv/stdfact-hpv.htm"
+        },
+		{
+            "concern": "Will the vaccine protect me against other sexually transmitted infections?",
+            "info": "Unfortunately, the HPV vaccine will not protect you from other sexually transmitted infections. It will however protect you from genital warts and several types of cancers!",
+			"link": "https://www.cdc.gov/std/hpv/stdfact-hpv.htm"
+        },
+		{
+            "concern": "What if I miss my next shot?",
+            "info": "Even if you miss a dose you should pick up where they left off. The body still responds to the vaccine and makes antibodies, which protect against HPV infection!",
+			"link": "http://www.hpvvaccine.org.au/parents/what-if-my-child-misses-a-dose.aspx"
+        },
+		{
+            "concern": "Are my friends getting the shot?",
+            "info": "Yes, getting the HPV shot is very common! Most boys and girls your age are getting vaccinated!",
+			"link": "https://www.cdc.gov/std/hpv/stdfact-hpv-vaccine-young-women.htm"
+        },
+		{
+            "concern": "",
+            "info": "",
+			"link": ""
+        }
+    ],
+    "parent-guardianConcerns": [
+        {
+            "concern": "Is the vaccine safe?",
+            "info": "The HPV vaccine has been studied for many years by medical experts. It’s very safe and may cause mild side effects such as a sore arm.",
+			"link": "https://www.cdc.gov/vaccinesafety/vaccines/hpv-vaccine.html"
+        },
+        {
+            "concern": "Will it hurt to get HPV shot and are there side effects?",
+            "info": "The HPV vaccine is like any other vaccine and incudes common side effects such as soreness in the arm where the shot was given, fever, headache or feeling tired, nausea, and muscle or joint pain.",
+			"link": "https://www.cdc.gov/vaccinesafety/vaccines/hpv-vaccine.html"
+        },
+		{
+            "concern": "Are there any unknown future side effects?",
+            "info": "Research studies done by doctors and medical experts have concluded that the HPV has no long-term future side effects!",
+			"link": "https://www.cdc.gov/vaccinesafety/vaccines/hpv-vaccine.html"
+        },
+		{
+            "concern": "Does the HPV vaccine cause autism?",
+            "info": "The HPV vaccine has been studied for years by medical experts. The vaccine does not cause autism.",
+			"link": "https://www.cdc.gov/vaccinesafety/concerns/autism.html"
+        },
+		{
+            "concern": "Will administering the HPV vaccine to my sexually inactive child encourage them to become sexually active earlier?",
+            "info": "Numerous research studies have shown that getting the HPV vaccine doesn’t make kids more likely to be sexually active at a younger age. Children who get the HPV vaccine become “active” at the same age as children who do not get the vaccine.",
+			"link": "https://www.cdc.gov/hpv/parents/vaccine.html"
+        },
+		{
+            "concern": "Should my child get the HPV shot even if they are already sexually active?",
+            "info": "Regardless of prior “activity”, all children should receive protection and get the HPV vaccine.",
+			"link": "https://www.cdc.gov/std/hpv/stdfact-hpv-vaccine-young-women.htm"
+        },
+		{
+            "concern": "What should I do if receiving vaccines conflicts with my religious beliefs?",
+            "info": "Please speak to your doctor if you have any questions or concerns about the vaccine based on your religion.",
+			"link": "https://www.cdc.gov/vaccinesafety/vaccines/hpv-vaccine.html"
+        },
+		{
+            "concern": "How effective is the HPV vaccine at preventing related cancers?",
+            "info": "HPV vaccines are highly effective in preventing infection & provide almost complete protection against HPV related cancers & genital warts.",
+			"link": "/no-link-yet"
+        },
+        {
+            "concern": "How much does the HPV vaccine cost?",
+            "info": "Health insurance plans cover the cost of HPV vaccines. If you do not have health insurance, the Vaccines for Children (VFC) program may help cover the cost!",
+			"link": "https://www.cdc.gov/vaccines/programs/vfc/index.html"
+        },
+        {
+            "concern": "Is the HPV vaccine readily available?",
+            "info": "The vaccine is available through your child’s provider. It’s a shot like other immunizations!",
+			"link": "https://www.cdc.gov/std/hpv/stdfact-hpv.htm"
+        },
+        {
+            "concern": "What does science say about the HPV vaccine?",
+            "info": "Each HPV vaccine went through years of extensive safety testing before they were licensed.",
+			"link": "https://www.cdc.gov/hpv/parents/vaccinesafety.html"
+        },
+        {
+            "concern": "Is it socially acceptable for my child to receive the HPV vaccine?",
+            "info": "The HPV vaccine is extremely safe and does not contain any live virus. There is no direct testing of the live virus, only synthetic proteins are used in the vaccine. After the vaccine is given, the body makes antibodies in response to these synthetic proteins and this is what helps you stay protected if you do come in contact with the virus in the future!",
+			"link": "http://www.hpvvaccine.org.au/the-hpv-vaccine/how-does-it-work.aspx"
+        },
+        {
+            "concern": "Who verifies HPV vaccines to ensure they are safe?",
+            "info": "Extensive research has shown that the HPV vaccine is safe. As with all approved vaccines, CDC & FDA closely monitor the safety of HPV vaccines even after they are licensed!",
+			"link": "https://www.cdc.gov/hpv/parents/vaccine.html"
+        },
+        {
+            "concern": "",
+            "info": "",
+			"link": ""
+        }
+    ]
+}

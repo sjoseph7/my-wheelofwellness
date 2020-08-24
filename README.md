@@ -1,4 +1,4 @@
-# [my-wheelofwellness.com](my-wheelofwellness.com)
+# [my-wheelofwellness.com](https://www.my-wheelofwellness.com)
 
 ### A website that provides information to parents and adolescents concerned about the HPV vaccine.
 
